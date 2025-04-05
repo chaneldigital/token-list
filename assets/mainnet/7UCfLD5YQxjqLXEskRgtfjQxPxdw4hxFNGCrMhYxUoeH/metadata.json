@@ -1,0 +1,14 @@
+{
+  "name": "FREE PALESTINE",
+  "symbol": "FREEPAL",
+  "description": "A token to support the freedom of Palestine.",
+  "image": "https://raw.githubusercontent.com/chaneldigital/freepal-token/main/assets/mainnet/7UCfLD5YQxjqLXEskRgtfjQxPxdw4hxFNGCrMhYxUoeH/logo.png",
+  "extensions": {
+    "website": "https://github.com/chaneldigital/freepal-token"
+  },
+  "properties": {
+    "category": "image",
+    "creators": []
+  }
+}
+
